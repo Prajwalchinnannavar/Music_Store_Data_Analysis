@@ -4,17 +4,17 @@ This project involves analyzing a music store database using PostgreSQL to deriv
 
 **Key Features:**
 
-Database Exploration: Understanding the structure and relationships within the database.
+* **Database Exploration:** Understanding the structure and relationships within the database.
 
-Query Optimization: Writing and optimizing SQL queries to extract meaningful data.
+* **Query Optimization:** Writing and optimizing SQL queries to extract meaningful data.
 
-Insights Derived:
-Top-selling artists, albums, and tracks.
-Customer purchase trends and geographical analysis.
-Revenue analysis by genres and time periods.
-Inventory management insights.
+* **Insights Derived:**
+   *  Top-selling artists, albums, and tracks.
+   * Customer purchase trends and geographical analysis.
+   * Revenue analysis by genres and time periods.
+   * Inventory management insights.
 
-Data Visualization: Presenting results in an actionable format.
+* **Data Visualization:** Presenting results in an actionable format.
 This project demonstrates strong SQL skills, logical problem-solving, and an understanding of relational databases.
 
 Feel free to adapt this further to reflect your unique contributions to the project!
