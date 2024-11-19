@@ -23,6 +23,9 @@ Feel free to adapt this further to reflect your unique contributions to the proj
 * Postgre SQL
 * PgAdmin4
 
+
+Schema- Music Store Database
+
 ![213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3](https://github.com/user-attachments/assets/b64dff73-48f9-4786-bb55-d9a0299c9d2a)
 
 
