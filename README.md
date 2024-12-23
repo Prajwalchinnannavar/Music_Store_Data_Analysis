@@ -1,4 +1,4 @@
-#SQL- MusicStore Data Analysis (Portfolio Project) 🎵
+# SQL- MusicStore Data Analysis (Portfolio Project) 🎵
 
 This project involves analyzing a music store database using PostgreSQL to derive valuable insights about the store's operations, sales performance, customer behavior, and inventory.
 
